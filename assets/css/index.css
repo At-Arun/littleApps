@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+.main_body{
+	height:550px;
+}
+.my_header{
+	color:cyan !important;
+	background-color:#78f961;
+	height:120px;
+}
+.logo{
+	background-color:rgba(177, 114, 114, 0.16);
+}
+.logo img{
+	background: aqua;
+
+	z-index:-1;
+	overflow:visible;
+	padding:0px;
+	margin:0px;
+}
+.my_footer{
+	color:black !important;
+	
+}
+.navbar-inverse{
+	padding:15px;
+	background-color:#eae7e7 !important;
+	border-color:#eae7e7;
+}
